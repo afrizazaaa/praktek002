@@ -2,6 +2,11 @@ package praktek002;
 public class karpet {
     double panjang;
     double lebar;
+
+    public karpet() {
+        panjang=20;
+        lebar=150;
+    }
     
     void cetakInfo() {
         System.out.println("=======================");
