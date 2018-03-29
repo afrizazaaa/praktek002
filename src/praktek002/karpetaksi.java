@@ -10,6 +10,7 @@ public class karpetaksi {
         
         r1.cetakInfo();
         System.out.println("Luas karpet = "+r1.hitungLuas());
+        r1.cetakLuas();
     }
  
 }
