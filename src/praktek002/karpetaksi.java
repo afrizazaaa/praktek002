@@ -6,6 +6,9 @@ public class karpetaksi {
         karpet r1 = new karpet();
         r1.panjang = 30;
         r1.lebar = 200;
+    
+        
+        r1.cetakInfo();
     }
  
 }
