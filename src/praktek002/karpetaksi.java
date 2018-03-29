@@ -11,6 +11,12 @@ public class karpetaksi {
         r1.cetakInfo();
         System.out.println("Luas karpet = "+r1.hitungLuas());
         r1.cetakLuas();
+        
+        karpet r2 = new karpet();
+        r2.cetakInfo();
+        
+        karpet r3 = new karpet(60,50);
+        r3.cetakInfo();
     }
  
 }
